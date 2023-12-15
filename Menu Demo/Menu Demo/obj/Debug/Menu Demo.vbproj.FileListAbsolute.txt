@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Menu Demo\Menu Demo\bin\Debug\Menu Demo.exe.config
+C:\Users\user\source\repos\Menu Demo\Menu Demo\bin\Debug\Menu Demo.exe
+C:\Users\user\source\repos\Menu Demo\Menu Demo\bin\Debug\Menu Demo.pdb
+C:\Users\user\source\repos\Menu Demo\Menu Demo\bin\Debug\Menu Demo.xml
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu Demo.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu_Demo.Form1.resources
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu_Demo.Resources.resources
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu Demo.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu Demo.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu Demo.exe
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu Demo.xml
+C:\Users\user\source\repos\Menu Demo\Menu Demo\obj\Debug\Menu Demo.pdb

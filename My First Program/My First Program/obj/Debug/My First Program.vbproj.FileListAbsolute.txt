@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\My First Program\My First Program\bin\Debug\My First Program.exe.config
+C:\Users\user\source\repos\My First Program\My First Program\bin\Debug\My First Program.exe
+C:\Users\user\source\repos\My First Program\My First Program\bin\Debug\My First Program.pdb
+C:\Users\user\source\repos\My First Program\My First Program\bin\Debug\My First Program.xml
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My First Program.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My_First_Program.Form1.resources
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My_First_Program.Resources.resources
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My First Program.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My First Program.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My First Program.exe
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My First Program.xml
+C:\Users\user\source\repos\My First Program\My First Program\obj\Debug\My First Program.pdb

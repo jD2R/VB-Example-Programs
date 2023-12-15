@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\bin\Debug\PIN Verifier.exe.config
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\bin\Debug\PIN Verifier.exe
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\bin\Debug\PIN Verifier.pdb
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\bin\Debug\PIN Verifier.xml
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN Verifier.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN_Verifier.Form1.resources
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN_Verifier.Resources.resources
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN Verifier.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN Verifier.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN Verifier.exe
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN Verifier.xml
+C:\Users\user\source\repos\PIN Verifier\PIN Verifier\obj\Debug\PIN Verifier.pdb

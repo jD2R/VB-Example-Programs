@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.exe.config
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.exe
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.pdb
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\bin\Debug\Larger and Smaller.xml
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger_and_Smaller.Form1.resources
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger_and_Smaller.Resources.resources
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.exe
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.xml
+C:\Users\user\source\repos\Larger and Smaller\Larger and Smaller\obj\Debug\Larger and Smaller.pdb

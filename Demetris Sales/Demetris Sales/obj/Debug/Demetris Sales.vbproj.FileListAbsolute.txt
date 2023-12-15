@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.exe.config
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.exe
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.pdb
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.xml
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris_Sales.Form1.resources
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris_Sales.Resources.resources
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.exe
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.xml
+C:\Users\user\source\repos\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.pdb

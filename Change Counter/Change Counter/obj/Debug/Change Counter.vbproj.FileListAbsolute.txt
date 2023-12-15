@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\user\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\user\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\user\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.xml
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change_Counter.Form1.resources
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change_Counter.Resources.resources
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.exe
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.xml
+C:\Users\user\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.pdb

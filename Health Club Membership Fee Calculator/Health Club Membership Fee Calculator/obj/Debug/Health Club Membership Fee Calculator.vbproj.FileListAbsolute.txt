@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe.config
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.exe
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.xml
+C:\Users\user\source\repos\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.pdb

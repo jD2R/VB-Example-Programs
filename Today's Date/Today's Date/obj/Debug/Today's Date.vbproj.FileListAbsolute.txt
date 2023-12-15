@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Today's Date\Today's Date\bin\Debug\Today's Date.exe.config
+C:\Users\user\source\repos\Today's Date\Today's Date\bin\Debug\Today's Date.exe
+C:\Users\user\source\repos\Today's Date\Today's Date\bin\Debug\Today's Date.pdb
+C:\Users\user\source\repos\Today's Date\Today's Date\bin\Debug\Today's Date.xml
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today's Date.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today_s_Date.Form1.resources
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today_s_Date.Resources.resources
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today's Date.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today's Date.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today's Date.exe
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today's Date.xml
+C:\Users\user\source\repos\Today's Date\Today's Date\obj\Debug\Today's Date.pdb

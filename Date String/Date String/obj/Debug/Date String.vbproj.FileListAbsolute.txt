@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Date String\Date String\bin\Debug\Date String.exe.config
+C:\Users\user\source\repos\Date String\Date String\bin\Debug\Date String.exe
+C:\Users\user\source\repos\Date String\Date String\bin\Debug\Date String.pdb
+C:\Users\user\source\repos\Date String\Date String\bin\Debug\Date String.xml
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date String.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date_String.Form1.resources
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date_String.Resources.resources
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date String.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date String.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date String.exe
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date String.xml
+C:\Users\user\source\repos\Date String\Date String\obj\Debug\Date String.pdb

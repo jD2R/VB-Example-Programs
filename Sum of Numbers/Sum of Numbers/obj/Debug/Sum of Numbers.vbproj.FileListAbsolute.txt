@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Form1.resources
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Resources.resources
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+C:\Users\user\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

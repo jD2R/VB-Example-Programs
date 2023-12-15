@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Months and Days\Months and Days\bin\Debug\Months and Days.exe.config
+C:\Users\user\source\repos\Months and Days\Months and Days\bin\Debug\Months and Days.exe
+C:\Users\user\source\repos\Months and Days\Months and Days\bin\Debug\Months and Days.pdb
+C:\Users\user\source\repos\Months and Days\Months and Days\bin\Debug\Months and Days.xml
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months and Days.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months_and_Days.Form1.resources
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months_and_Days.Resources.resources
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months and Days.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months and Days.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months and Days.exe
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months and Days.xml
+C:\Users\user\source\repos\Months and Days\Months and Days\obj\Debug\Months and Days.pdb

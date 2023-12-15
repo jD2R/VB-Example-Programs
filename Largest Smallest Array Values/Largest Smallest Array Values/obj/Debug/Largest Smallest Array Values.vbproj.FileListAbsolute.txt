@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.exe.config
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.exe
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.pdb
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.xml
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest Smallest Array Values.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest_Smallest_Array_Values.Form1.resources
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest_Smallest_Array_Values.Resources.resources
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest Smallest Array Values.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest Smallest Array Values.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest Smallest Array Values.exe
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest Smallest Array Values.xml
+C:\Users\user\source\repos\Largest Smallest Array Values\Largest Smallest Array Values\obj\Debug\Largest Smallest Array Values.pdb

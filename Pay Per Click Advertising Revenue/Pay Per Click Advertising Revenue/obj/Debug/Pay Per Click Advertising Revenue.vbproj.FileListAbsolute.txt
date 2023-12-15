@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.exe.config
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.exe
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.pdb
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.xml
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay_Per_Click_Advertising_Revenue.Form1.resources
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay_Per_Click_Advertising_Revenue.Resources.resources
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.exe
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.xml
+C:\Users\user\source\repos\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.pdb

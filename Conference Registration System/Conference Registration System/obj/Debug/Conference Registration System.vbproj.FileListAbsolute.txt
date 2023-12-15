@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.exe.config
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.exe
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.pdb
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.xml
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference_Registration_System.Form1.resources
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference_Registration_System.Resources.resources
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.exe
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.xml
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.pdb
+C:\Users\user\source\repos\Conference Registration System\Conference Registration System\obj\Debug\Conference_Registration_System.OptionsForm.resources

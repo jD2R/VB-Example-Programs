@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe.config
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.xml
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Form1.resources
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Resources.resources
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.exe
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.xml
+C:\Users\user\source\repos\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.pdb

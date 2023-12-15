@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+C:\Users\user\source\repos\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+C:\Users\user\source\repos\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+C:\Users\user\source\repos\Card Identifier\Card Identifier\bin\Debug\Card Identifier.xml
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card Identifier.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Resources.resources
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card Identifier.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card Identifier.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card Identifier.xml
+C:\Users\user\source\repos\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb

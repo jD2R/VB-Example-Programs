@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Friend List\Friend List\bin\Debug\Friend List.exe.config
+C:\Users\user\source\repos\Friend List\Friend List\bin\Debug\Friend List.exe
+C:\Users\user\source\repos\Friend List\Friend List\bin\Debug\Friend List.pdb
+C:\Users\user\source\repos\Friend List\Friend List\bin\Debug\Friend List.xml
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend List.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend_List.Form1.resources
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend_List.Resources.resources
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend List.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend List.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend List.exe
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend List.xml
+C:\Users\user\source\repos\Friend List\Friend List\obj\Debug\Friend List.pdb
